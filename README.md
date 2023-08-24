@@ -25,21 +25,17 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gabrieljuniorferrari88/gofinances
+$ git clone https://github.com/gabrieljuniorferrari88/DesafioExplorerSemLimites
 
 # Entre na pasta
-$ cd gofinances
+$ cd DesafioExplorerSemLimites
 
-# Instale as dependências
-$ yarn ou npm install
+# Instale a extensão usando as teclas de atalho (CTRL + P)
+$ ext install ritwickdey.liveserver
 
-# Para iniciar o projeto
-$ expo start
-
-# O app vai inicializar em <http://localhost:19002>
+# Para iniciar o projeto use as teclas de atalho (alt+L, alt+O) para abrir o Servidor e (alt+L, alt+C) para finalizar o servidor
+# A servidor vai inicializar automaticamente
 ```
-
-> Caso tenha alguma dúvida e não tenha o expo instalado em sua maquina confira este [guia de instalação expo](https://docs.expo.dev/)
 
 ## :raised_hands: Contribuir
 
